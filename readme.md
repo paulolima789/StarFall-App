@@ -11,5 +11,5 @@
 * Facíl e pratica
 * Código em forma de `blocos` 
 <br>
-[Link do MIT](http://ai2.appinventor.mit.edu/)
+* [Link do MIT](http://ai2.appinventor.mit.edu/)
 
