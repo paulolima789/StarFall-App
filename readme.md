@@ -1,6 +1,6 @@
 # StarFall
 * Esse app foi utilizado para compor uma das motas da facudade, e participou de uma competição de turma onde foi o ganhador.
-* Foi meu Primeito contato com a `programação` e meu Primeiro `projeto`
+* Foi meu Primeito contato com a `programação`, e meu Primeiro `projeto`
 # Sobre o Jogo
 * Jogo de plataforma
 * Dificuldade linear
